@@ -262,9 +262,9 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"r390"	
-		"xpos_minmode"	"r85"	
+		"xpos_minmode"	"r390"	
 		"ypos"	"r147"	
-		"ypos_minmode"	"r36"	
+		"ypos_minmode"	"r147"	
 		"wide"	"200"
 		"tall"	"120"
 	}
@@ -294,7 +294,7 @@
 		"blue_active_xpos_minmode"	"55"
 	
 		"red_active_xpos"			"106"
-		"red_active_xpos_minmode"	"105"
+		"red_active_xpos_minmode"	"106"
 	}	
 
 	HudItemEffectMeter
@@ -303,9 +303,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r488"	
-		"xpos_minmode"	"r52"	
+		"xpos_minmode"	"r488"	
 		"ypos"			"r100"	
-		"ypos_minmode"	"r50"	
+		"ypos_minmode"	"r100"	
 		"wide"			"1000"
 		"tall"			"1000"
 		"fgcolor_override"		"metrometers"
@@ -318,9 +318,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r488"	
-		"xpos_minmode"	"r100"	
+		"xpos_minmode"	"r488"	
 		"ypos"			"r137"	
-		"ypos_minmode"	"r34"	
+		"ypos_minmode"	"r137"	
 		"wide"			"200"
 		"tall"			"100"
 	}
@@ -331,9 +331,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r488"	
-		"xpos_minmode"	"r52"	
+		"xpos_minmode"	"r488"	
 		"ypos"			"r137"	
-		"ypos_minmode"	"r40"	
+		"ypos_minmode"	"r137"	
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"1000"
 		"tall"			"500"
@@ -357,14 +357,14 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r80"	
-		"xpos_minmode"	"r52"	
+		"xpos_minmode"	"r80"	
 		"ypos"			"r21"	
-		"ypos_minmode"	"r40"	
+		"ypos_minmode"	"r21"	
 		"xpos"			"r112"	[$X360]
 		"ypos"			"r45"	[$X360]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"60"
-		"wide_minmode"	"50"
+		"wide_minmode"	"60"
 		"tall"			"8"
 		"fgcolor_override"		"metrometers"
 		"bgcolor_override"		"Black"
@@ -439,9 +439,9 @@
 	{
 		"fieldName"				"CHealthAccountPanel"
 		"xpos"					"270"
-		"xpos_minmode"			"61"
+		"xpos_minmode"			"270"
 		"ypos"					"r202"
-		"ypos_minmode"			"r134"
+		"ypos_minmode"			"r202"
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
@@ -1355,7 +1355,7 @@
 		"enabled"				"1"
 		"xpos"					"c-160"
 		"ypos"					"5"
-		"ypos_minmode"				"15"
+		"ypos_minmode"				"5"
 		"ypos_lodef"				"75"
 		"wide"					"125"
 		"tall"					"55"

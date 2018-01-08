@@ -11,14 +11,14 @@
 		"enabled"		"1"
 				
 		"team1_player_base_offset_x"		"-430"
-		"team1_player_base_offset_x_minmode"	"265"
+		"team1_player_base_offset_x_nope"	"265"
 		"team1_player_base_y"				"300"
-		"team1_player_base_y_minmode"		"300"
+		"team1_player_base_y_nope"		"300"
 		"team1_player_delta_x"				"0"
 		"team1_player_delta_y"				"-16"
 		"team2_player_base_offset_x"		"267"
 		"team2_player_base_y"				"300"
-		"team2_player_base_y_minmode"		"460"
+		"team2_player_base_y_nope"		"460"
 		"team2_player_delta_x"				"0"
 		"team2_player_delta_y"				"-16"
 		
