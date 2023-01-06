@@ -46,8 +46,7 @@
 			
 			if_mvm
 		{
-			"ypos"			"0"
-			"tall"			"448"
+			"visible"			"0"
 		}
 		}	
 
@@ -68,8 +67,7 @@
 			
 			if_mvm
 		{
-			"ypos"			"0"
-			"tall"			"448"
+			"visible"			"0"
 		}
 		}	
 	
@@ -92,8 +90,7 @@
 			
 			if_mvm
 		{
-			"ypos"			"0"
-			"tall"			"448"
+			"visible"			"0"
 		}
 		}	
 
@@ -114,8 +111,7 @@
 			
 			if_mvm
 		{
-			"ypos"			"0"
-			"tall"			"448"
+			"visible"			"0"
 		}
 		}	
 		
@@ -812,11 +808,6 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		
-		if_mvm
-		{
-			"visible"		"1"
-		}
 
 		"KillsLabel"
 		{
